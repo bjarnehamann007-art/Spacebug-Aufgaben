@@ -1,0 +1,21 @@
+<!-- <svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M18,36 C27.9411255,36 36,27.9411255 36,18 C36,8.0588745 27.9411255,0 18,0 C8.0588745,0 0,8.0588745 0,18 C0,27.9411255 8.0588745,36 18,36 Z" id="path-xi6e25ghn6-1"></path>
+        <mask id="mask-xi6e25ghn6-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-xi6e25ghn6-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="19,3">
+        <use id="Oval" stroke="#DDDDDD" mask="url(#mask-xi6e25ghn6-2)" stroke-width="8" xlink:href="#path-xi6e25ghn6-1"></use>
+    </g>
+</svg> -->
+
+
+<svg width="38px" height="38px" viewBox="0 0 38 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="standalone-mock-ups" stroke="none" stroke-width="2" fill="none" fill-rule="evenodd">
+        
+        <circle id="Oval" stroke="#AEAEAE" stroke-width="2" fill="transparent" cx="18.5" cy="17.5" r="16"></circle>
+        <!-- <circle id="Oval" stroke="#AEAEAE" stroke-width="2" fill="transparent" cx="18.5" cy="17.5" r="10.5"></circle> -->
+        <circle id="Oval" fill="#AEAEAE" cx="18.5" cy="17.5" r="10"></circle>
+    </g>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "Python Spacebug Lernumgebung",
+  "description": "Interaktive Python-Lernumgebung nach dem Vorbild von Python Spacebug der Universität Trier mit integrierter Aufgabenspalte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

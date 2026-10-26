@@ -1,0 +1,9 @@
+<svg width="37px" height="35px" viewBox="-4 -4 44 42" xmlns="http://www.w3.org/2000/svg">
+    <g id="UI-Redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Download" stroke="#979797" stroke-width="3">
+            <path d="M37,26 L37,31.7272727 C37,33.5347501 34.9611736,35 32.4461538,35 L4.55384615,35 C2.03882637,35 0,33.5347501 0,31.7272727 L0,26" id="Path"></path>
+            <line x1="18.5" y1="0.5" x2="18.5" y2="23.5" id="Line-3" stroke-linejoin="round"></line>
+            <path d="M9.81034483,26.6190476 L17.8103448,19 C18.1965517,18.6321839 18.8034483,18.6321839 19.1896552,19 L27.1896552,26.6190476" id="Path" stroke-linejoin="round" transform="translate(18.5, 22.6716) scale(1, -1) translate(-18.5, -22.6716)"></path>
+        </g>
+    </g>
+</svg>

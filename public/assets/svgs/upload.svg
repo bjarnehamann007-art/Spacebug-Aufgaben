@@ -1,0 +1,12 @@
+<svg width="37px" height="35px" viewBox="-4 -4 44 42" xmlns="http://www.w3.org/2000/svg">
+    <g id="UI-Redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Upload" stroke="#979797" stroke-width="3">
+            <path d="M37,26 L37,31.7272727 C37,33.5347501 34.9611736,35 32.4461538,35 L4.55384615,35 C2.03882637,35 0,33.5347501 0,31.7272727 L0,26" id="Path" stroke-linecap="round"></path>
+            <g id="Group-2" transform="translate(18.5, 8.5) scale(1, -1) translate(-18.5, -8.5)translate(9.8103, 0)" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="8.68965517" y1="0.5" x2="8.68965517" y2="16.5" id="Line-3"></line>
+                <path d="M0,16.6190476 L8,9 C8.3862069,8.63218391 8.99310345,8.63218391 9.37931034,9 L17.3793103,16.6190476" id="Path" transform="translate(8.6897, 12.6716) scale(1, -1) translate(-8.6897, -12.6716)"></path>
+            </g>
+            <rect id="Rectangle" x="6.5" y="22.5" width="24" height="6" rx="3"></rect>
+        </g>
+    </g>
+</svg>

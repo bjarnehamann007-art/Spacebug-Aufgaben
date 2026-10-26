@@ -1,0 +1,11 @@
+<svg width="38px" height="36px" viewBox="0 0 38 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="UI-Redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Test-Cases-Icon" stroke="#AEAEAE">
+            <rect id="Rectangle" stroke-width="2" x="1" y="1" width="36" height="34" rx="10"></rect>
+            <rect id="Rectangle" x="7.5" y="10.5" width="13" height="1" rx="0.5"></rect>
+            <rect id="Rectangle" x="7.5" y="14.5" width="18" height="1" rx="0.5"></rect>
+            <rect id="Rectangle" x="7.5" y="18.5" width="16" height="1" rx="0.5"></rect>
+            <polyline id="Path-4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="21.1123596 24.6118598 24.6436597 28.3962264 31 19.5660377"></polyline>
+        </g>
+    </g>
+</svg>

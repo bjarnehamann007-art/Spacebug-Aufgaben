@@ -1,0 +1,8 @@
+<!-- Debug button -->
+<svg width="16.000239px" height="16.0002667px" viewBox="0 0 16.000239 16.0002667" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="debug" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M-2.62053628,4.62084303 C-1.87979554,9.12659016 0.490574833,11.3794637 4.49057483,11.3794637 C8.49057483,11.3794637 10.7868711,9.12659016 11.3794637,4.62084303" id="Path-3" stroke="#5A5A5A" stroke-width="2" stroke-linecap="round" transform="translate(4.3795, 8.0002) scale(1, -1) rotate(-90) translate(-4.3795, -8.0002)"></path>
+        <rect id="Rectangle" stroke="#5A5A5A" stroke-width="2" transform="translate(8.2415, 8.0002) rotate(90) translate(-8.2415, -8.0002)" x="5.04153269" y="2.72429131" width="6.4" height="10.5517241" rx="3.2"></rect>
+        <path d="M6.05302694,5.58636027 C6.4038088,8.80475108 8.60467499,10.4139465 12.6556255,10.4139465 C16.706576,10.4139465 18.8612654,8.91775696 19.1196936,5.92537792" id="Path-3" stroke="#5A5A5A" stroke-width="2" stroke-linecap="round" transform="translate(12.5864, 8.0002) rotate(90) translate(-12.5864, -8.0002)"></path>
+    </g>
+</svg>

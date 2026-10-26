@@ -1,0 +1,13 @@
+
+<svg width="28px" height="28px" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+    <g id="UI-Redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dialog-Gridsize" transform="translate(-1288, -75)" fill="#AEAEAE" stroke="#AEAEAE">
+            <g id="Grid-Icon" transform="translate(1288, 75)">
+                <rect id="Rectangle" x="0.5" y="8.5" width="27" height="1" rx="0.5"></rect>
+                <rect id="Rectangle" x="0.5" y="18.5" width="27" height="1" rx="0.5"></rect>
+                <rect id="Rectangle" transform="translate(9, 14) rotate(90) translate(-9, -14)" x="-4.5" y="13.5" width="27" height="1" rx="0.5"></rect>
+                <rect id="Rectangle" transform="translate(19, 14) rotate(90) translate(-19, -14)" x="5.5" y="13.5" width="27" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

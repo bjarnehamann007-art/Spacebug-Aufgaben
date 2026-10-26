@@ -1,0 +1,8 @@
+<!-- Speed button -->
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="speed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="high" fill="#5A5A5A" x="0" y="0" width="16" height="2" rx="1"></rect>
+        <rect id="middle" fill="#5A5A5A" x="2" y="4" width="12" height="2" rx="1"></rect>
+        <rect id="low" fill="#5A5A5A" x="4" y="8" width="8" height="2" rx="1"></rect>
+    </g>
+</svg>

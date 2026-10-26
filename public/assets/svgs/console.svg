@@ -1,0 +1,8 @@
+<svg viewBox="0 0 38 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="UI-Redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Console-Rect" stroke="#AEAEAE" stroke-width="2">
+            <path d="M32,25 L32,27.5 C32,28.1903559 31.720178,28.8153559 31.267767,29.267767 C30.8153559,29.720178 30.1903559,30 29.5,30 L8.5,30 C7.80964406,30 7.18464406,29.720178 6.73223305,29.267767 C6.27982203,28.8153559 6,28.1903559 6,27.5 L6,25 L32,25 Z" id="Rectangle" fill="#AEAEAE"></path>
+            <rect id="Rectangle" x="1" y="1" width="36" height="34" rx="10"></rect>
+        </g>
+    </g>
+</svg>

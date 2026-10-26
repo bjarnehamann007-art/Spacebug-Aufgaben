@@ -1,0 +1,8 @@
+<svg width="38px" height="36px" viewBox="0 0 38 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="UI-Redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Run-Tests">
+            <rect id="Rectangle" stroke="#AEAEAE" stroke-width="2" x="1" y="1" width="36" height="34" rx="17"></rect>
+            <path d="M22.7364863,14.038851 L27.2901269,22.0077221 C27.8381469,22.966757 27.5049534,24.1884663 26.5459185,24.7364863 C26.2437231,24.9091694 25.9016945,25 25.5536406,25 L16.4463594,25 C15.3417899,25 14.4463594,24.1045695 14.4463594,23 C14.4463594,22.6519461 14.53719,22.3099175 14.7098731,22.0077221 L19.2635137,14.038851 C19.8115337,13.0798161 21.033243,12.7466227 21.9922779,13.2946426 C22.3023404,13.4718212 22.5593077,13.7287884 22.7364863,14.038851 Z" id="Triangle" fill="#AEAEAE" transform="translate(21, 18) rotate(90) translate(-21, -18)"></path>
+        </g>
+    </g>
+</svg>
